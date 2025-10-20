@@ -1,0 +1,5 @@
+site_name: Warmhouse Documentation
+plugins:
+  - search
+  - plantuml:
+      puml_url: https://www.plantuml.com/plantuml/
